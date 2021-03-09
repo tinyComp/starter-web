@@ -13,3 +13,5 @@ This is desc for Introduction
 ## Deployment
 Bla bla bla
 
+## Copyright
+2021 Git Training
